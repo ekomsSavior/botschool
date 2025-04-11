@@ -5,13 +5,13 @@ An open-source ethical red team botnet learning lab – by ekoms savior 🫂
 
 BotSchool is a modular red team simulation lab that lets users explore how botnets are created, controlled, and stopped — all in a safe and fully educational virtual environment.
 
-Perfect for:
+Perfect for
 
-    Ethical hackers
+Ethical hackers
 
-    Cybersecurity students
+Cybersecurity students
 
-    Total beginners who want to learn red team tactics the right way
+Total beginners who want to learn red team tactics the right way
 
 📦 What's Inside?
 
@@ -27,13 +27,17 @@ BotSchool includes 6 modular learning labs:
 🖥 How to Use It
 
 Step 1: Clone the repo
+
 git clone https://github.com/ekomsSavior/botschool.git
+
 cd botschool
 
 Step 2: Install xterm for terminal simulation
+
 sudo apt update && sudo apt install xterm
 
 Step 3: Launch BotSchool
+
 python3 botschool.py
 
 Choose any module and follow the in-app prompts.
@@ -41,36 +45,38 @@ Choose any module and follow the in-app prompts.
 🔍 What's Happening Behind the Scenes?
 
 What is a C2 Server?
+
 A Command & Control (C2) server is the brain of a botnet. It tells bots what to do: attack, mine, scan, spread, etc.
 
-In BotSchool, each C2:
+In BotSchool, each C2
 
-    Is written in Python
+Is written in Python
 
-    Uses sockets to listen for connections
+Uses sockets to listen for connections
 
-    Sends simple text-based commands to bots
+Sends simple text-based commands to bots
 
 What is a Bot?
-A bot:
 
-    Connects back to the C2
+A bot
 
-    Waits for commands like "attack 127.0.0.1 8080"
+Connects back to the C2
 
-    Simulates actions like floods, mining, BLE pings, or fake encryption
+Waits for commands like "attack 127.0.0.1 8080"
+
+Simulates actions like floods, mining, BLE pings, or fake encryption
 
 All actions are harmless and occur only on your machine.
 
 🧠 How Do Devices Get Infected in Real Life?
 
-In real-world botnets:
+In real-world botnets
 
-    Malware spreads via phishing, exploits, or open ports
+Malware spreads via phishing, exploits, or open ports
 
-    Devices are silently infected and connect to a C2 server
+Devices are silently infected and connect to a C2 server
 
-    C2s may control millions of bots for attacks or profit
+C2s may control millions of bots for attacks or profit
 
 BotSchool replicates these concepts safely and visually.
 
@@ -78,11 +84,11 @@ BotSchool replicates these concepts safely and visually.
 
 BotSchool is for educational and ethical red team training only.
 
-    Do not deploy or modify these tools for use outside your own machines
+Do not deploy or modify these tools for use outside your own machines
 
-    Do not attack, scan, or connect to anything you do not own or have explicit permission for
+Do not attack, scan, or connect to anything you do not own or have explicit permission for
 
-    Learn how these systems work so you can detect, prevent, and defend
+Learn how these systems work so you can detect, prevent, and defend
 
 Use this knowledge responsibly. You're the future of cybersecurity 🫂
 
