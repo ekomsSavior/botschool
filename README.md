@@ -33,18 +33,18 @@ BotSchool includes **6 modular learning labs**:
 
 ### 🔧 Step 1: Clone the repo
 
-```bash
+
 git clone https://github.com/ekomsSavior/botschool.git
 cd botschool
 
 📦 Step 2: Install xterm for terminal simulation
 
-'''bash
+
 sudo apt update && sudo apt install xterm
 
 ▶️ Step 3: Launch BotSchool
 
-'''bash
+
 python3 botschool.py
 
 
