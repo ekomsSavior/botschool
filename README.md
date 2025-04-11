@@ -1,4 +1,5 @@
 🧠 BotSchool v1.0 – Rise of the Swarm
+
 An open-source ethical red team botnet learning lab – by ekoms savior 🫂
 
 🚀 What is BotSchool?
@@ -18,10 +19,15 @@ Total beginners who want to learn red team tactics the right way
 BotSchool includes 6 modular learning labs:
 
 [1] DDoS Botnet – Simulates a simple C2-to-bot UDP flood
+
 [2] Crypto Miner Botnet – Simulates mining bots & fake earnings
+
 [3] Bluetooth Mesh Botnet – Simulates BLE relay-style zombie logic
+
 [4] Wormable Ransom Botnet – Simulates self-spreading encryption & ransom drops
+
 [5] Zombie Army Builder – Clone, customize, and launch a swarm of bots
+
 [6] Guidelines & About – Ethical use rules + credits 💖
 
 🖥 How to Use It
@@ -95,8 +101,11 @@ Use this knowledge responsibly. You're the future of cybersecurity 🫂
 ✨ By ekoms savior 🤍
 
 Made with love for Team Forever
+
 Instagram: @ekomsSavior
+
 GitHub: github.com/ekomsSavior
+
 Medium: medium.com/@ekomsSavior
 
 🧃 Join the swarm. Learn the game. Stay ethical.
